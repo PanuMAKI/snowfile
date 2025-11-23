@@ -1,4 +1,4 @@
-favourite-packages:
+pkg:
   pkg.installed:
     - pkgs:
       - git
